@@ -1,2 +1,2 @@
-# FlashCardApplication
-A flashcard application using Flask and SQLite
+# Super Market Billing System
+A super market billing system using C.
